@@ -1,0 +1,54 @@
+body {
+  height: 100%;
+  overflow-x: hidden;
+  width: 100%;
+}
+#box {
+  height: 300px;
+  width: 300px;
+  background-color: red;
+}
+
+#page1 {
+  height: 700px;
+  width: 100%;
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#page2 {
+  height: 700px;
+  width: 100%;
+  background-color: rgb(157, 212, 230);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#page3 {
+  height: 700px;
+  background-color: rgb(116, 190, 215);
+  display: flex;
+  align-items: center;
+}
+#page4 {
+  height: 700px;
+  width: 100%;
+  background-color: rgb(90, 184, 215);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#text {
+  font-size: 440px;
+  color: white;
+  font-weight: bolder;
+}
+#text2 {
+  font-size: 180px;
+  color: white;
+  font-weight: bolder;
+}
